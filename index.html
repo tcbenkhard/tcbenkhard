@@ -2,6 +2,6 @@
 layout: default
 title: Home
 ---
-<div class="content-card">
-    {{ "Hello World!" | downcase }}
-</div>
+{% for post in site.posts %}
+    {% include post.html post=post %}
+{% endfor %}
