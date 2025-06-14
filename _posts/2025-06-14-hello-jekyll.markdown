@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello Jekyll!"
-date:   2025-06-14 21:51:28 +0200
+date:   2025-06-14 20:00:00 +0200
 categories: projects
 tags: projects jekyll
 ---
